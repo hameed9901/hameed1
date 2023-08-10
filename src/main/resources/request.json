@@ -1,0 +1,13 @@
+{
+  "documentType": "PADES",
+  "payerId":"8f708abe-da57-4f16-89a7-f302c910dd05",
+  "accountType":"organization",
+  "organizationUid": "8f708abe-da57-4f16-89a7-f302c910dd05",
+  "subscriberUniqueId": "4bee4a56-0f02-4b2f-a5b5-544dcd39b53d",
+  "placeHolderCoordinates": {
+    "pageNumber": null,
+    "signatureXaxis": "300",
+    "signatureYaxis": "300.0"
+  },
+  "esealPlaceHolderCoordinates":null
+}

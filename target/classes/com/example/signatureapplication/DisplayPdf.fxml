@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?import javafx.scene.control.*?>
+<?import javafx.scene.layout.*?>
+<?import javafx.scene.web.WebView?>
+<BorderPane xmlns="http://javafx.com/javafx"
+            xmlns:fx="http://javafx.com/fxml"
+            fx:controller="com.example.signatureapplication.DisplayPdf"
+>
+    <center>
+        <VBox>
+            <WebView fx:id="webView"/>
+<HBox alignment="CENTER">
+            <Button mnemonicParsing="false" onAction="#SignPdf" style="-fx-background-color: black;" text="SignPdf"
+                    textFill="#f7f5f7" wrapText="true" />
+</HBox>
+        </VBox>
+    </center>
+</BorderPane>
